@@ -12,17 +12,21 @@ Este repositorio presenta el laboratorio de IETI, usando las herramientas Androi
 ### Funcionalidades
 
 First Build
+
 ![](images/Capture1.PNG)
 
 Actividad Principal
+
 ![](images/Capture2.PNG)
 
 ![](images/Capture3.PNG)
 
 Segunda Actividad
+
 ![](images/Capture4.PNG)
 
 Final
+
 ![](images/Capture5.PNG)
 
 
